@@ -4,7 +4,7 @@
 &nbsp; Location <br/>
 &nbsp; &nbsp; Personal email: aidenquinlan4@gmail.com<br/>
 &nbsp; &nbsp; Academic email: aiden.quinlan@snhu.edu<br/>
-&nbsp; &nbsp; [Resume](https://aquin04.github.io/PagesBasic/SiteFiles/Resume/Resume.pdf)
+&nbsp; &nbsp; [Resume](https://aquin04.github.io/PagesBasic/SiteFiles/Resume.pdf)
 
 <br/>
 <br/>
