@@ -1,6 +1,6 @@
 ## Aiden J. Quinlan
 
-<img src="SiteFiles/AQ.jpeg" align="left" width=150>&nbsp; Title<br/>
+<img src="SiteFiles/AQ.JPEG" align="left" width=150>&nbsp; Title<br/>
 &nbsp; Location <br/>
 &nbsp; &nbsp; email: aidenquinlan4@gmail.com<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
