@@ -1,7 +1,7 @@
 ## Aiden J. Quinlan
 
-<img src="SiteFiles/AQ.JPEG" align="left" width=150>&nbsp; B.S in Computer Science Student <br/>
-&nbsp; Southern New Hampshire University <br/>
+<img src="SiteFiles/AQ.JPEG" align="left" width=150>&nbsp; Computer Science Student @ SNHU (On-Campus) <br/>
+&nbsp; 2500 North River Road, Manchester, NH 03106 <br/>
 &nbsp; &nbsp; Personal email: aidenquinlan4@gmail.com<br/>
 &nbsp; &nbsp; Academic email: aiden.quinlan@snhu.edu<br/>
 &nbsp; &nbsp; [Resume](https://aquin04.github.io/SiteFiles/Resume.pdf)
