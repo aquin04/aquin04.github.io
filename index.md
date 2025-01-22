@@ -1,8 +1,8 @@
-## Peter G.
+## Aiden J. Quinlan
 
-<img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Safety Inspector<br/>
+<img src="SiteFiles/AQ.jpeg" align="left" width=150>&nbsp; Safety Inspector<br/>
 &nbsp; Pawtucket Brewery <br/>
-&nbsp; &nbsp; email: peter.griffin@spooner.com<br/>
+&nbsp; &nbsp; email: aidenquinlan4@<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
 <br/>
