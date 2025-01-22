@@ -2,8 +2,9 @@
 
 <img src="SiteFiles/AQ.JPEG" align="left" width=150>&nbsp; Title<br/>
 &nbsp; Location <br/>
-&nbsp; &nbsp; email: aidenquinlan4@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp; Personal email: aidenquinlan4@gmail.com<br/>
+&nbsp; &nbsp; Academic email: aiden.quinlan@snhu.edu<br/>
+&nbsp; &nbsp; [Resume](https://aquin04.github.io/PagesBasic/SiteFiles/Resume/Resume.pdf)
 
 <br/>
 <br/>
